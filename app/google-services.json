@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1036698870347",
+    "firebase_url": "https://freelancer2-3227a.firebaseio.com",
+    "project_id": "freelancer2-3227a",
+    "storage_bucket": "freelancer2-3227a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036698870347:android:457e991987ecbd4c",
+        "android_client_info": {
+          "package_name": "com.example.gaber.freelancer2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036698870347-5tfdk98cpjov31j0l9sm49p357qm4d6d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gaber.freelancer2",
+            "certificate_hash": "fcfe826d7fbd55faeaf265556e6ba9008a0d7e02"
+          }
+        },
+        {
+          "client_id": "1036698870347-easfa7r94sqqtk71flpa6s7lboc9rpju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdL6UZpbmFt7us5air_PLDQV1lU1PyWeY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036698870347-easfa7r94sqqtk71flpa6s7lboc9rpju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
